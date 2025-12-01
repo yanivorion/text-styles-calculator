@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/text-styles-calculator/static/css/main.71179779.css",
-    "main.js": "/text-styles-calculator/static/js/main.e1c3f665.js",
+    "main.js": "/text-styles-calculator/static/js/main.cad721fd.js",
     "index.html": "/text-styles-calculator/index.html",
     "main.71179779.css.map": "/text-styles-calculator/static/css/main.71179779.css.map",
-    "main.e1c3f665.js.map": "/text-styles-calculator/static/js/main.e1c3f665.js.map"
+    "main.cad721fd.js.map": "/text-styles-calculator/static/js/main.cad721fd.js.map"
   },
   "entrypoints": [
     "static/css/main.71179779.css",
-    "static/js/main.e1c3f665.js"
+    "static/js/main.cad721fd.js"
   ]
 }
